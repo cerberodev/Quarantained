@@ -1,7 +1,20 @@
-console.log('Welcome to cerbero.dev/typescript')
 
-console.log('Code whit TypeScript')
+//  Variable Type of Date
 
-// Warings
-console.warn('Please close door')
-console.error('Waring!!!')
+// number
+var edad: number, puntos: number;
+
+edad = 52;
+puntos = 100;
+
+console.log(edad, puntos)
+
+    // string
+    // boolean
+    // enum
+    // any
+    // object
+    // interfaces
+    // arreglos
+    // null
+    // undefined
