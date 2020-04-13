@@ -1,5 +1,6 @@
 var cantSolicit = 96;
 var printing = true;
+//debugger
 if (cantSolicit > 10) {
     console.log("Aplicated disconut of your product");
 }

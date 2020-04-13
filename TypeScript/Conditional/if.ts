@@ -1,6 +1,7 @@
 var cantSolicit: number = 96
 
 var printing: boolean = true
+//debugger
 
 if (cantSolicit > 10) {
     console.log("Aplicated disconut of your product")
